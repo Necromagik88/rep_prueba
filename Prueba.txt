@@ -4,3 +4,5 @@ Shaco es lo mas ¡¡¡
 Linea de error
 
 Linea de error 2.0
+
+error 1
